@@ -96,27 +96,38 @@ Survey-driven safety-first ride-hailing concept with 50+ validated users.
 ## 🛠️ Skills  
 
 ### 🎯 Strategy & PM  
-![Agile](https://img.shields.io/badge/Agile-25A162?style=for-the-badge&logo=agile&logoColor=white)  
-Roadmaps · Market Research · RICE · MoSCoW · Scrum · Jira · Confluence  
+Roadmap Planning · Market Research · RICE · MoSCoW · Agile · Scrum · Jira · Confluence  
 
-### 💻 Technical  
+### 💻 Programming & Development  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
 
-APIs · Data Analysis · Full Stack · REST APIs  
-
-### 📊 Data & AI  
+### 📊 Data Science & AI  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154570?style=for-the-badge&logo=python&logoColor=white)
 
-ML · DL · NLP · CNN · LSTM · Transformers (BERT/T5)  
+### 🎨 UI/UX & Research  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+Wireframing · Prototyping · User Interviews · Surveys · Persona Development  
 
-### 🎨 Design & Research  
-Figma · Wireframing · Prototyping · User Interviews · Surveys · Personas  
+### ⚒️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
@@ -153,5 +164,6 @@ Figma · Wireframing · Prototyping · User Interviews · Surveys · Personas
 </p>
 
 ---
+
 ✨ *"Not from IIT, but I interned at **IIT Hyderabad (NG-RAN Lab)**.  
 I don’t chase certificates — I build things that work."* 🚀
