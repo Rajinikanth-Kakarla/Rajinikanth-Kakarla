@@ -1,48 +1,157 @@
-### 👋 Hey, I'm Rajinikanth Kakarla
-![Profile Views](https://komarev.com/ghpvc/?username=Rajinikanth-Kakarla&label=Visitors&color=brightgreen&style=for-the-badge)
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm Rajinikanth Kakarla</h1>
+<p align="center">
+  <em>Builder of real-world solutions | Web Dev • AI/ML • Product Management • System Design</em>
+</p>
 
-
-I'm a project-driven developer who learns by building.  
-I love solving real-world problems using web development, AI/ML, and system design.  
-Not from IIT, but I interned at **IIT Hyderabad** (NG-RAN Lab).  
-I don’t chase certificates — I build things that work.
-
----
-
-### 🔗 Live Projects  
-
-- 🌐 [My Portfolio](https://rajinikanth-kakarla.netlify.app/)  
-  Personal website showcasing my skills, projects, resume, and background. Built with HTML, CSS, and JavaScript.
-
-- 📚 [Course Recommendation System](https://learngeni.streamlit.app/)  
-  AI-powered learning path generator using KNN and Matrix Factorization. Includes feedback-driven filtering and Streamlit UI.
-
-- 🧠 [Advanced YouTube Transcript Summarizer](https://smartytnotes.streamlit.app/)  
-  Built with BERT, T5, and OpenAI GPT. Summarizes and translates YouTube videos with an interactive Streamlit interface.
-
-- 🧾 [Attendance Management System (AMS)](https://tikkit.infy.uk/)  
-  Real-time attendance dashboard using PHP, JavaScript, and MySQL. Designed for classroom and academic admin use.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajinikanth-Kakarla&label=Visitors&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-### 🛠️ Skills & Tools
-
-- **Languages & Web**: `Python`, `JavaScript`, `PHP`, `HTML/CSS`, `SQL`, `MySQL`
-- **Frameworks & UI**: `Streamlit`, `Flask`, `Bootstrap`, `Tailwind CSS`
-- **Machine Learning**: `Scikit-learn`, `KNN`, `Linear Regression`, `SVM`, `Matrix Factorization`, `Pandas`, `NumPy`
-- **Deep Learning**: `TensorFlow`, `Keras`, `CNN`, `LSTM`, `Sequential Models`
-- **NLP**: `BERT`, `T5`, `OpenAI GPT`, `NLTK`, `Hugging Face Transformers`, `Text Summarization`, `Translation`, `Transcript Parsing`
-- **Tools**: `Git`, `VS Code`, `Jupyter`, `Netlify`, `Render`, `Google Colab`
+## 🧑‍💻 About Me  
+- 🚀 Project-driven developer & product enthusiast — I **learn by building**.  
+- 🏫 Interned at **IIT Hyderabad (NG-RAN Lab)**.  
+- 🧠 Passionate about **GenAI, system design, and product strategy**.  
+- ✨ Motto: *“I don’t chase certificates — I build things that work.”*  
 
 ---
 
-### 🎯 Learning Goals  
-- Build smarter GenAI tools with real UI  
-- Improve backend/API development  
-- Contribute to open-source projects  
-- Create tech that supports real-world challenges (like defense, education)
+## 🔗 Featured Projects  
+
+<table>
+<tr>
+<td width="50%">
+  
+🌐 **[Portfolio](https://rajinikanth-kakarla.netlify.app/)**  
+Showcasing my skills, projects, and resume.  
+
+</td>
+<td width="50%">
+  
+📚 **[Course Recommendation System](https://learngeni.streamlit.app/)**  
+AI-powered personalized learning paths (KNN + Matrix Factorization).  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  
+🧠 **[YouTube Transcript Summarizer](https://smartytnotes.streamlit.app/)**  
+Summarizes & translates videos with **BERT + T5 + GPT**.  
+
+</td>
+<td width="50%">
+  
+🧾 **[Attendance Management System](https://tikkit.infy.uk/)**  
+Real-time attendance dashboard for classrooms & admins.  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+  
+🚗 **ParkShare**  
+Smart hourly parking marketplace — user research + MVP prioritization.  
+
+</td>
+<td width="50%">
+  
+🚖 **Women-First Ride-Hailing**  
+Survey-driven safety-first ride-hailing concept with 50+ validated users.  
+
+</td>
+</tr>
+</table>
 
 ---
 
-💬 Always open to collaboration and feedback.  
-📫 Reach me via [LinkedIn](https://www.linkedin.com/in/rajinikanthkakarla)
+## 💼 Experience  
+
+**Amazon | SDS Associate (Contract)** *(Sep 2024 – Apr 2025)*  
+✅ Automated workflows (15–20% faster)  
+✅ Reduced response time by 18%  
+
+**NG-RAN, IIT Hyderabad | Future Wireless Intern** *(Nov 2023 – Apr 2024)*  
+✅ Built speech-to-text prototype (ESP32-S3 + INMP441)  
+✅ Validated UE stack (–15% errors across 10+ scenarios)  
+
+**Intel | Industrial Trainee (Unnati)** *(May 2023 – Aug 2023)*  
+✅ Engineered ATM prototype with Verilog + Python FaceID  
+✅ Reduced authentication time by 40%  
+
+---
+
+## 🎓 Education  
+
+🎓 **B.Tech, CSE (AI & ML)** – MRCET (CGPA: 8.23/10)  
+📘 **Class 12th** – KV Bolarum (81.6%)  
+📗 **Class 10th** – KV Island Grounds (72.6%)  
+
+---
+
+## 🛠️ Skills  
+
+### 🎯 Strategy & PM  
+![Agile](https://img.shields.io/badge/Agile-25A162?style=for-the-badge&logo=agile&logoColor=white)  
+Roadmaps · Market Research · RICE · MoSCoW · Scrum · Jira · Confluence  
+
+### 💻 Technical  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+APIs · Data Analysis · Full Stack · REST APIs  
+
+### 📊 Data & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+ML · DL · NLP · CNN · LSTM · Transformers (BERT/T5)  
+
+### 🎨 Design & Research  
+Figma · Wireframing · Prototyping · User Interviews · Surveys · Personas  
+
+---
+
+## 🎯 Learning Goals  
+
+- [x] Build smarter GenAI tools with real UI  
+- [ ] Improve backend/API development  
+- [ ] Contribute to open-source projects  
+- [ ] Create tech for **defense, education & urban challenges**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajinikanth-Kakarla&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajinikanth-Kakarla&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajinikanthkakarla">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://rajinikanth-kakarla.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rajinikanth-Kakarla">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+✨ *"Not from IIT, but I interned at **IIT Hyderabad (NG-RAN Lab)**.  
+I don’t chase certificates — I build things that work."* 🚀
