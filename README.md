@@ -1,4 +1,6 @@
 ### 👋 Hey, I'm Rajinikanth Kakarla
+![Profile Views](https://komarev.com/ghpvc/?username=Rajinikanth-Kakarla&label=Visitors&color=brightgreen&style=for-the-badge)
+
 
 I'm a project-driven developer who learns by building.  
 I love solving real-world problems using web development, AI/ML, and system design.  
