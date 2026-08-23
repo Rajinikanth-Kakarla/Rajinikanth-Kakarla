@@ -16,32 +16,64 @@
 
 ### Skills
 
-#### Languages
+<table>
+<tr>
+<td width="50%">
+
+#### AI & Agentic Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,sql" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 </p>
 
-#### AI & Data
+`Agentic AI` · `LLMs` · `AI Agents`  
+`MCP` · `LangGraph` · `OpenAI Agents SDK`  
+`RAG` · `Tool Calling` · `Multi-Agent Systems`
+
+</td>
+
+<td width="50%">
+
+#### Software Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,fastapi" />
 </p>
 
-#### Development
+`Full-Stack Development` · `REST APIs`  
+`System Design` · `Backend Engineering`  
+`Production Software` · `API Development`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Modern Web Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,mongodb,postgresql" />
 </p>
 
-#### Databases & Cloud
+`Next.js` · `React` · `TypeScript`  
+`Node.js` · `PostgreSQL` · `MongoDB`  
+`Tailwind CSS` · `Drizzle` · `Redis`
+
+</td>
+
+<td width="50%">
+
+#### Engineering & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,docker" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,aws" />
 </p>
 
-#### Tools
+`Docker` · `Git` · `GitHub`  
+`Cloud` · `CI/CD` · `Deployment`  
+`Testing` · `Observability` · `Scalable Systems`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+</td>
+</tr>
+</table>
