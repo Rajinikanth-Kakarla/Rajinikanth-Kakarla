@@ -1,128 +1,47 @@
 # Rajinikanth K
 
-**Developer · Problem Solver · Builder**
+> Entrepreneur · Software Builder · AI Explorer
 
-Building software, solving algorithmic problems, and exploring data-driven applications.
+- Building **production-ready software solutions**
+- Exploring **Agentic AI** and intelligent systems
+- Working with **Machine Learning** and emerging technologies
+- Turning ideas into **real-world products**
+- Exploring new technologies and experimenting with what’s next
+- Passionate about **building, learning, and solving problems**
+- Always curious. Always building.
 
-<br>
+### Currently Exploring
 
-<p align="center">
+`Agentic AI` · `Machine Learning` · `Software Engineering` · `Product Development`
 
-<a href="https://leetcode.com/u/Rajinikanth-k/">
-<img src="https://leetcard.jacoblin.cool/Rajinikanth-k?theme=light&font=Covered%20By%20Your%20Grace&ext=heatmap" width="700"/>
-</a>
+### Skills
 
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,sql" />
 </p>
 
----
+#### AI & Data
 
-## GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas" />
 </p>
 
----
+#### Development
 
-## Technology
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql,pandas,numpy,git,github,firebase,vscode"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react" />
 </p>
 
----
+#### Databases & Cloud
 
-## LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Rajinikanth-k/">
-
-<img src="https://leetcard.jacoblin.cool/Rajinikanth-k?theme=light&font=Covered%20By%20Your%20Grace&ext=activity"/>
-
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,docker" />
 </p>
 
----
+#### Tools
 
-## GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true&area=true"/>
-
-</p>
-
----
-
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Coding Practice Platform
-
-An online platform for practicing programming problems with an integrated code execution environment.
-
-</td>
-
-<td width="50%">
-
-### Data Projects
-
-Projects focused on Python, Pandas, SQL, data manipulation and analytics.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Educational Platform
-
-A flexible content management system for creating and publishing educational content.
-
-</td>
-
-<td width="50%">
-
-### Problem Contributions
-
-Creating and sharing original programming problems for developers to practice and explore.
-
-</td>
-</tr>
-</table>
-
----
-
-## Currently
-
-**Problem Solving**
-
-Data Structures · Algorithms · SQL
-
-**Development**
-
-Python · JavaScript · Web Development · Firebase
-
-**Data**
-
-Pandas · NumPy · Data Analysis
-
----
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Rajinikanth-k/">LeetCode</a>
-  ·   <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
