@@ -2,7 +2,7 @@
 
 > Entrepreneur · Software Builder · AI Explorer
 
-Founder: `ALPINISM`
+**Founder — [`ALPINISM`](https://alpinism.onrender.com/)**
 
 - Building **production-ready software solutions**
 - Exploring **Agentic AI** and intelligent systems
