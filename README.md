@@ -2,8 +2,8 @@
 
 > Entrepreneur · Software Builder · AI Explorer
 
-**Founder — [`ALPINISM`](https://alpinism.onrender.com/)**
-          ** — [`ChaQ`](https://chaqapp.ai.studio/)**
+**Founder — [`ALPINISM`](https://alpinism.onrender.com/)** <br>
+          ** — [`ChaQ`](https://chaqapp.ai.studio/)** <br>
           ** — [`Forum`](https://forum-app.ai.studio/)**
 
 - Building **production-ready software solutions**
