@@ -1,9 +1,15 @@
 # Rajinikanth K
 
-> Entrepreneur · Software Builder · AI Explorer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Rajinikanth-Kakarla's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-| **Founder** | **[ALPINISM](https://alpinism.onrender.com/)** | **[ChaQ](https://chaqapp.ai.studio/)** | **[Forum](https://forum-app.ai.studio/)** |
-|---|---|---|---|
+> · Software Builder · AI Explorer
+
+| **[ALPINISM](https://alpinism.onrender.com/)** | **[ChaQ](https://chaqapp.ai.studio/)** | **[Forum](https://forum-app.ai.studio/)** |
+|---|---|---|
 
 - Building **production-ready software solutions**
 - Exploring **Agentic AI** and intelligent systems
